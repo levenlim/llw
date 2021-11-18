@@ -3,10 +3,8 @@
 # print(a+b)
 a='asdaffasdfsfsdgfdgaweassgfdgqerfsqadasdafafafafdasdfdfsgsdfgw'
 print(len(a))
-..
-就今天修改
-666666
-132545
-.32312563
-懂法守法都是阿道夫
-阿达
+36666611
+123
+3522
+36213
+3212
